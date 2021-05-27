@@ -1,0 +1,20 @@
+body{
+  background-color: lightblue;
+}
+hr {
+
+  border-style:none;
+  border-top-style: dotted;
+  border-width: thick;
+  border-color: grey;
+  width: 6%;
+}
+table{
+  background-color: lightyellow;
+}
+table:hover{
+  background-color: lightgreen;
+}
+img{
+  border-radius: 100%;
+}
